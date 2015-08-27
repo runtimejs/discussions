@@ -1,4 +1,1 @@
-discussions
-===========
-
-Random discussions about Runtime.JS
+##[issues ≫](https://github.com/runtimejs/discussions/issues)
